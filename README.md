@@ -4,8 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-zxcv9203/zxcv9203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![yongckim's 42 stats](https://badge42.herokuapp.com/api/stats/yongckim?privacyEmail=true)](https://github.com/yongckim/badge42)
 ![zxcv9203's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv9203&show_icons=true&theme=gruvbox)
