@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+- 42seoul 2020-09-28 ~ 2022-03-07
+- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv9203&layout=compact)](https://github.com/zxcv9203/github-readme-stats)
 ![zxcv9203's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv9203&show_icons=true&theme=gruvbox)
