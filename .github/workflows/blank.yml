@@ -1,0 +1,29 @@
+name: wakatime-scheduler
+
+on:
+  schedule:
+    - cron: '30 18 * * *'
+  workflow_dispatch: 
+jobs:
+  update-readme:
+    name: wakatime-update
+    runs-on: ubuntu-latest
+    steps:
+      -  uses: anmol098/waka-readme-stats@master
+         with:
+           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_TOKEN }}
+           GH_TOKEN: ${{ secrets.ACCESS_GITHUB_TOKEN }}
+           LOCALE: ko
+           COMMIT_BY_ME: "True"
+           COMMIT_MESSAGE: "wakatime 정보 Readme.md 업데이트"
+           SHOW_UPDATED_DATE: "True"
+           SHOW_COMMIT: "True"
+           SHOW_DAYS_OF_WEEK: "True"
+           SHOW_LANGUAGE: "True"
+           SHOW_OS: "False"
+           SHOW_PROJECTS: "True"
+           SHOW_TIMEZONE: "True"
+           SHOW_EDITORS: "True"
+           SHOW_SHORT_INFO: "True"
+           SHOW_LANGUAGE_PER_REPO: "True"
+                     
