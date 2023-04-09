@@ -65,22 +65,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv9203&hide=html&exclude_repo=zxcv9203.github.io,golB&theme=grate-gatsby)](https://github.com/zxcv9203/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
-
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 81.2 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🏆 260 만큼의 Contributions을 2023년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 66개의 Public Repository를 만들었어요. 
- > 
-> 🔑 42개의 Private Repository를 만들었어요. 
- > 
+
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
