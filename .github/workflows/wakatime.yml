@@ -2,7 +2,7 @@ name: wakatime-scheduler
 
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '00 00 * * *'
   workflow_dispatch: 
 jobs:
   update-readme:
@@ -23,3 +23,7 @@ jobs:
            SHOW_LOC_CHART: "False"
            SHOW_TOTAL_CODE_TIME: "False"
            SHOW_PROFILE_VIEWS: "False"
+           SHOW_EDITORS: "False"
+           SHOW_LANGUAGE: "False"
+           SHOW_SHORT_INFO: "False"
+           SHOW_LANGUAGE_PER_REPO: "False"
