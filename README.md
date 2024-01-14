@@ -48,18 +48,6 @@
   <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   
   
-  
-## Experience 🏃
-  
-### 🏫 42 Seoul 2nd Cadet
-  ###### 2020-09-28 ~ 2022-03-07
-  
-### 🏫 프로그래머스 데브코스 백엔드 과정 2기 
-  ###### 2022-03-18 ~ 2022-08-17
-  
-### 🧑‍🏫 프로그래머스 데브코스 백엔드 과정 3기 서브멘토 
-  ###### 2022-10-17 ~ 2022-03-15
-
 ## language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv9203&hide=html&exclude_repo=zxcv9203.github.io,golB&theme=grate-gatsby)](https://github.com/zxcv9203/github-readme-stats)
