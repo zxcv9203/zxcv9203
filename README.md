@@ -37,10 +37,6 @@
 
   
   
-## language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv9203&hide=html&exclude_repo=zxcv9203.github.io,golB&theme=grate-gatsby)](https://github.com/zxcv9203/github-readme-stats)
-  
 <!--START_SECTION:waka-->
 **저는 저녁형 인간이에요. 🦉** 
 
