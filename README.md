@@ -38,6 +38,8 @@
   
   
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2052%20mins-blue?style=flat)
+
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
@@ -66,7 +68,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 02:01:12 UTC
+ Last Updated on 08/08/2026 00:44:40 UTC
 <!--END_SECTION:waka-->
   
 </div>
