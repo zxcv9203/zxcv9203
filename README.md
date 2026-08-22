@@ -36,40 +36,5 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
   
-  
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%207%20mins-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 낮　                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 저녁                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 밤　                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **제가 가장 생산적인 날은 월요일이에요.** 
-
-```text
-월요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-화요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-수요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-목요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-금요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-토요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-일요일                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 22/08/2026 00:33:13 UTC
-<!--END_SECTION:waka-->
-  
 </div>
 
